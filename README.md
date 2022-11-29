@@ -13,8 +13,10 @@ KH Semi-Project 헬스장 홈페이지 만들기
 ### 3️⃣ 구현 화면
 
 <p align="center">
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_about_intro.html_vsayzo.png" width="50%" height="50%">
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_branch.html_hqaicx.png" width="50%" height="50%">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_about_intro.html_vsayzo.png" width="40%" height="50%">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_branch.html_hqaicx.png" width="40%" height="50%">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725191/127.0.0.1_5500_220822_semi_final_member_private_register.html_smf9dc.png" width="40%" height="50%">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_private_purchase.html_nljsjr.png" width="40%" height="50%">
 <p/>
 
 ### 4️⃣ 주요 기능
