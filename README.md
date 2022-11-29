@@ -12,6 +12,10 @@ KH Semi-Project 헬스장 홈페이지 만들기
 
 ### 3️⃣ 구현 화면
 
+<p align="center">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669725193/localhost_5500_220822_semi_final_member_about_intro.html_vsayzo.png" width=30% height=50%>
+<p/>
+
 ### 4️⃣ 주요 기능
 
 <희라>
